@@ -1,6 +1,8 @@
 yii2-gauge.js
 ============
 
+[![Join the chat at https://gitter.im/glagola/yii2-gauge.js](https://badges.gitter.im/glagola/yii2-gauge.js.svg)](https://gitter.im/glagola/yii2-gauge.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Gauge.js](https://github.com/bernii/gauge.js) assets for Yii PHP framework 2.0 
 
 Installation
