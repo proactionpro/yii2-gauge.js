@@ -13,11 +13,17 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/gauge.js":"*"
+        "proactionpro/gauge.js": "dev-master"
     },
     "autoload": {
         "psr-4": {
             "glagola\\gaugejs\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/proactionpro/gauge.js"
+        }
+    ]
 }
