@@ -1,5 +1,5 @@
 {
-    "name": "glagola/yii2-gauge.js",
+    "name": "proactionpro/yii2-gauge.js",
     "description": "Gauge.js assets for Yii PHP framework 2.0",
     "keywords": ["yii", "extension", "gauge.js", "assets"],
     "type": "yii2-extension",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "glagola\\gaugejs\\": ""
+            "proactionpro\\gaugejs\\": ""
         }
     },
     "repositories": [
