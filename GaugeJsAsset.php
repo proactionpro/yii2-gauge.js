@@ -1,10 +1,10 @@
 <?php
-namespace glagola\gaugejs;
+namespace proactionpro\gaugejs;
 
 use \yii\web\AssetBundle;
 
 class GaugeJsAsset extends AssetBundle {
-    public $sourcePath = '@bower/gauge.js/dist';
+    public $sourcePath = '@vendor/proactionpro/gauge.js/dist';
 
     public $js = [
         'gauge.js',
